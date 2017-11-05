@@ -29,7 +29,9 @@
         Tırtıl tırtıldır<br />
         tırtıl yenmek içindir
         <br />
-        tırtıl sevmek içindir</div>
+        tırtıl sevmek içindir<br />
+        <br />
+        tırtıl game istiyor.</div>
     </form>
 </body>
 </html>
