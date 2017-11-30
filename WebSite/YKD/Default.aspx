@@ -24,27 +24,7 @@
         <br />
         <br />
         <br />
-        <br />
-        <br />
-        Tırtıl tırtıldır<br />
-        tırtıl yenmek içindir
-        <br />
-        tırtıl sevmek içindir<br />
-        <br />
-        tırtıl game istiyor.<br />
-        tırtıl game istiyorsa<br />
-        gelsin
-        <br />
-        ben burdayım<br />
-        <br />
-        <br />
-        <br />
-        <br />
-        sync son 
-        <br />
-        <br />
-        <br />
-        ayça son sync</div>
+        </div>
     </form>
 </body>
 </html>
