@@ -4,27 +4,22 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>YKD Dekorasyon WebSite</title>
+    <link href="DefaultCss.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-    <form id="form1" runat="server">
-    <div>
-        <label>Bu Bir Label İçidir</label>
-        <button>buton içidir.</button>
-        <br />
-        <label>Bu Bir Label İçidir</label>
-        <button>buton içidir.</button>
-        <label>Bu Bir Label İçidir</label>
-        <button>buton içidir.</button>
-        <button>buton içidir.</button>
-        <label>Bu Bir Label İçidir</label>
-        <button>buton içidir.</button>
-        <label>Bu Bir Label İçidir</label>
-        <button>buton içidir.</button>
-        <br />
-        <br />
-        <br />
-        </div>
-    </form>
+    <header>
+        <form id="form1" runat="server">
+       
+        <div class="row header">
+            <ul class="main-nav">
+                <li><a href="">HOME-0</a></li>
+                <li><a href="">HOME-1</a></li>
+                <li><a href="">HOME-2</a></li>
+            </ul>
+        </div> 
+
+        </form>
+    </header>
 </body>
 </html>

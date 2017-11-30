@@ -1,0 +1,11 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+.header 
+{
+    background-image:url('https://www.google.com.tr/search?q=modern+objeler&tbm=isch&tbs=rimg:CYsrqMiq7N2VIjjbJSpFe5UD4Mo7g-gd1mMOVcB67yc0Vlx5LU2Gj8B5aD6VYtHGpTFBKsQtkF9bFkqrWg30fFQewyoSCdslKkV7lQPgEXqoXrOtUIjtKhIJyjuD6B3WYw4Rx5twFJk7EwsqEglVwHrvJzRWXBFjeVwn-tSm6SoSCXktTYaPwHloEWN5XCf61KbpKhIJPpVi0calMUER2tUIX9-94hgqEgkqxC2QX1sWShEWHrExhQjggioSCataDfR8VB7DEQWcm-ef_1KNq&tbo=u&sa=X&ved=0ahUKEwjU-_207ubXAhUFxRQKHXlmA5QQ9C8IHw&biw=1366&bih=598&dpr=1#imgrc=yjuD6B3WYw42CM:');
+    height: 100vh;
+    background-size:cover;
+    background-position:center;
+}
