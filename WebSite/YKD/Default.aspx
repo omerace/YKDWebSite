@@ -9,9 +9,10 @@
 </head>
 <body>
     <header>
+        <link href="DefaultCss.css" rel="stylesheet" />
         <form id="form1" runat="server">
        
-        <div class="row header">
+        <div class="row">
             <ul class="main-nav">
                 <li><a href="">HOME-0</a></li>
                 <li><a href="">HOME-1</a></li>
