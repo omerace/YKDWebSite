@@ -95,33 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DefaultCss.css" />
-    <Content Include="images\demo\234x210.gif" />
-    <Content Include="images\demo\240x90.gif" />
-    <Content Include="images\demo\290x100.gif" />
-    <Content Include="images\demo\60x60.gif" />
-    <Content Include="images\demo\80x80.gif" />
-    <Content Include="images\demo\avatar.gif" />
-    <Content Include="images\demo\imgl.gif" />
-    <Content Include="images\demo\imgr.gif" />
-    <Content Include="images\gallery\1.gif" />
-    <Content Include="images\gallery\1_s.gif" />
-    <Content Include="images\gallery\2.gif" />
-    <Content Include="images\gallery\2_s.gif" />
-    <Content Include="images\gallery\3.gif" />
-    <Content Include="images\gallery\3_s.gif" />
-    <Content Include="images\gallery\4.gif" />
-    <Content Include="images\gallery\4_s.gif" />
-    <Content Include="images\gallery\5.gif" />
-    <Content Include="images\gallery\5_s.gif" />
     <Content Include="index.aspx" />
-    <Content Include="layout\images\gallery-placeholder.gif" />
-    <Content Include="layout\styles\forms.css" />
-    <Content Include="layout\styles\gallery.css" />
-    <Content Include="layout\styles\images\black_file.gif" />
-    <Content Include="layout\styles\images\lime_file.gif" />
-    <Content Include="layout\styles\layout.css" />
-    <Content Include="layout\styles\navi.css" />
-    <Content Include="layout\styles\tables.css" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -135,9 +109,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
-    <Content Include="pages\full-width.aspx" />
-    <Content Include="pages\index.aspx" />
-    <Content Include="pages\style-demo.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -154,27 +125,6 @@
     </Compile>
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="pages\full-width.aspx.cs">
-      <DependentUpon>full-width.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="pages\full-width.aspx.designer.cs">
-      <DependentUpon>full-width.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="pages\index.aspx.cs">
-      <DependentUpon>index.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="pages\index.aspx.designer.cs">
-      <DependentUpon>index.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="pages\style-demo.aspx.cs">
-      <DependentUpon>style-demo.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="pages\style-demo.aspx.designer.cs">
-      <DependentUpon>style-demo.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
