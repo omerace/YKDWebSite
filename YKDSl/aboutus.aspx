@@ -80,6 +80,15 @@
                 </div>
             </div><!--/.container-->
         </nav><!--/nav-->
-  
+
+        <a><img src="images/aboutus/aboutus.png"></a>
+
+        <section id="portfolio">
+        <div class="container">
+            <div class="center">
+               <h2>HAKKIMIZDA</h2>
+               <p class="lead">YKD Dekorasyon, iç ve dış dekorasyon alanında 2000 yılından beri faaliyet göstermektedir. Deneyimlerine dayanarak birçok alanda aktif olarak yer almaktadır. Ayrıca dinamik olarak değişim gösteren dekorasyon sektöründe son trendleri ve uygulamaları takip ederek kendini sürekli geliştirmeye de devam etmektedir.
+YKD Dekorasyon, hizmet skalasında her kesime ve alana hitap edebilmeyi hedeflemiş ve bu doğrultuda her müşterisine özel hizmetler sunmaya devam etmektedir.</p>
+            </div>
 </body>
 </html>

@@ -186,10 +186,11 @@ body > section {
 {
     padding: 10px 0;
     /*background: #0066CC; MAVÝ */
-    background: #b3b3b3;
+    background: #b3b3b3;/*GRÝ*/
     border-bottom: 1px solid #222;
     line-height: 28px;
-    border-bottom-color: #0054A8;
+    border-bottom-color:#b3b300;
+   /*border-bottom-color: #0054A8; MAVÝ*/ 
 }
 
 .top-number{
@@ -306,7 +307,7 @@ input.search-form:hover {
 .navbar-inverse .navbar-nav > li > a:hover
 {
     border-width: 2px;
-    border-color: #3399FF;
+    border-color: #3399FF
     color: #fff;
     border-bottom-style: solid;
 }
@@ -324,7 +325,7 @@ input.search-form:hover {
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus
 {
     border-width: 2px;
-    border-color: #3399FF;
+    border-color: #b3b300;/*SARI BORDER*/
     color: #fff;
     border-bottom-style: solid;
     
@@ -498,7 +499,7 @@ input.search-form:hover {
     height: 24px;
     border-radius: 100%;
     background: rgba(0, 0, 0, 0);
-    border: 1px solid #99CCFF;
+    border: 1px solid #b3b300;
     left: -3px;
     top: -3px;
 }
@@ -513,15 +514,15 @@ input.search-form:hover {
     position: relative;
 }
 
-#main-slider .carousel-indicators .active:after
+#main-slider .carousel-indicators .active:after/*SAYFA DEÐÝÞÝMLERÝNDEKÝ DAÝRELER*/
 {
     position: absolute;
     content: "";
     width: 24px;
     height: 24px;
     border-radius: 100%;
-    background: #0099FF;
-    border: 1px solid #0085DD;
+    background: #b3b300;
+    border: 1px solid #b3b300;
     left: -3px;
     top: -3px;
 }

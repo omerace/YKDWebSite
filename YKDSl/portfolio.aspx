@@ -90,10 +90,10 @@
         
 
             <ul class="portfolio-filter text-center">
-                <li><a class="btn btn-default active" href="#" data-filter="*">All Works</a></li>
-                <li><a class="btn btn-default" href="#" data-filter=".bootstrap">Creative</a></li>
-                <li><a class="btn btn-default" href="#" data-filter=".html">Photography</a></li>
-                <li><a class="btn btn-default" href="#" data-filter=".wordpress">Web Development</a></li>
+                <li><a class="btn btn-default active" href="#" data-filter="*">Tüm Projeler</a></li>
+                <li><a class="btn btn-default" href="#" data-filter=".bootstrap">İç Dekorasyonlar</a></li>
+                <li><a class="btn btn-default" href="#" data-filter=".html">Dış Dekorasyonlar</a></li>
+                <!--li><a class="btn btn-default" href="#" data-filter=".wordpress">Web Development</a></!--li-->
             </ul><!--/#portfolio-filter-->
 
             <div class="row">
