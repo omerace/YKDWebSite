@@ -61,8 +61,8 @@
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="Default.aspx">Home</a></li>
-                       <li><a href="portfolio.aspx">Portfolio</a></li>
+                        <li class="active"><a href="Default.aspx">ANASAYFA</a></li>
+                       <li><a href="portfolio.aspx">HAKKIMIZDA</a></li>
                         <li><a href="services.aspx">Services</a></li>                        
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
@@ -90,7 +90,7 @@
             </ol>
             <div class="carousel-inner">
 
-                <div class="item active" style="background-image: url(images/slider/bg1.jpg)">
+                <div class="item active" style="background-image: url(images/slider/img_6_.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -101,17 +101,17 @@
                                 </div>
                             </div>
 
-                            <div class="col-sm-6 hidden-xs animation animated-item-4">
-                                <div class="slider-img">
+                         <!--div class="col-sm-6 hidden-xs animation animated-item-4">
+                                <div lass="slider-img">
                                     <img src="images/slider/img1.png" class="img-responsive">
                                 </div>
-                            </div>
+                            </!--div-->
 
                         </div>
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(images/slider/bg2.jpg)">
+                <div class="item" style="background-image: url(images/slider/img_7_.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -122,17 +122,17 @@
                                 </div>
                             </div>
 
-                            <div class="col-sm-6 hidden-xs animation animated-item-4">
+                            <!--div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
                                     <img src="images/slider/img2.png" class="img-responsive">
                                 </div>
-                            </div>
+                            </!--div-->
 
                         </div>
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(images/slider/bg3.jpg)">
+                <div class="item" style="background-image: url(images/slider/img_8_.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -142,11 +142,11 @@
                                     <a class="btn-slide animation animated-item-3" href="#">Read More</a>
                                 </div>
                             </div>
-                            <div class="col-sm-6 hidden-xs animation animated-item-4">
+                            <!--div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
                                     <img src="images/slider/img3.png" class="img-responsive">
                                 </div>
-                            </div>
+                            </!--div-->
                         </div>
                     </div>
                 </div><!--/.item-->
