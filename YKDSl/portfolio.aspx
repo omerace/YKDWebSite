@@ -30,7 +30,7 @@
     <div class="container">
     <div class="row">
     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-      <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Keep In Tounch </p></div>
+      <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Bizi Sosyal Medyada da Takip Edebilirsiniz! </p></div>
     </div>
      <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
       <div class="social">
@@ -60,8 +60,9 @@
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li><a href="Default.aspx">Home</a></li>
-                       <li class="active"><a href="portfolio.aspx">Portfolio</a></li>
+                        <li><a href="Default.aspx">ANASAYFA</a></li>
+                        <li><a href="aboutus.aspx">HAKKIMIZDA</a></li>
+                       <li class="active"><a href="portfolio.aspx">PROJELERİMİZ</a></li>
                         <li><a href="services.aspx">Services</a></li>                        
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
