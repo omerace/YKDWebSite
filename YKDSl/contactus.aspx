@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="contactus.aspx.cs" Inherits="contactus" %>
+﻿<%@ Page Language="C#"EnableEventValidation="false" AutoEventWireup="true" CodeFile="contactus.aspx.cs" Inherits="contactus" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -30,7 +30,7 @@
     <div class="container">
     <div class="row">
     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-      <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Keep In Tounch </p></div>
+      <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Bizi Sosyal Medyada da Takip Edebilirsiniz! </p></div>
     </div>
      <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
       <div class="social">
@@ -60,8 +60,9 @@
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li><a href="Default.aspx">Home</a></li>
-                       <li><a href="portfolio.aspx">Portfolio</a></li>
+                        <li><a href="Default.aspx">ANASAYFA</a></li>
+                        <li><a href="aboutus.aspx">HAKKIMIZDA</a></li>
+                       <li><a href="portfolio.aspx">PROJELERİMİZ</a></li>
                         <li><a href="services.aspx">Services</a></li>                        
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
@@ -73,7 +74,7 @@
                             </ul>
                         </li>
                         <li><a href="#">Blog</a></li> 
-                        <li  class="active"><a href="contactus.aspx">Contact</a></li>                        
+                        <li  class="active"><a href="contactus.aspx">İLETİŞİM</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->
@@ -83,8 +84,8 @@
     <section id="contact-info">
      <br /> <br />  
         <div class="center">                
-            <h2>How to Reach Us?</h2>
-            <p class="lead">Get In Touch. More Bootstrap Templates will Update soon only for dot.net users...</p>
+            <h2>Bize Ulaşın!</h2>
+            <!--p class="lead">Get In Touch. More Bootstrap Templates will Update soon only for dot.net users...</!--p-->
      
         </div>
         <div class="gmap-area">
@@ -92,7 +93,7 @@
                 <div class="row">
                     <div class="col-sm-5 text-center">
                         <div class="gmap">
-                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=JoomShaper,+Dhaka,+Dhaka+Division,+Bangladesh&amp;aq=0&amp;oq=joomshaper&amp;sll=37.0625,-95.677068&amp;sspn=42.766543,80.332031&amp;ie=UTF8&amp;hq=JoomShaper,&amp;hnear=Dhaka,+Dhaka+Division,+Bangladesh&amp;ll=23.73854,90.385504&amp;spn=0.001515,0.002452&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=1073661719450182870&amp;output=embed"></iframe>
+                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/d/embed?mid=18WZ62ks0NofDSsrjjRUlqcHQPeIg2KWi"></iframe>
                         </div>
                     </div>
 
@@ -100,20 +101,20 @@
                         <ul class="row">
                             <li class="col-sm-6">
                                 <address>
-                                    <h5>Head Office</h5>
-                                    <p>4587 Hitech Street <br>
-                                    HYD, DS 75864</p>
-                                    <p>Phone:123-456-7894 <br>
-                                    Email Address:info@strap.com</p>
+                                    <h5>Merkez</h5>
+                                    <p>İlkadım Mahallesi, Dikmen Cd. 165/C, 06450  <br>
+                                    Çankaya/Ankara</p>
+                                    <p>Tel: (0312) 482 83 23 <br>
+                                    Mail: info@strap.com</p>
                                 </address>
 
-                                <address>
+                                <!--address>
                                     <h5>Zone2 Office</h5>
                                     <p>4587 Hitech Street <br>
                                     HYD, DS 75864</p>
                                     <p>Phone:123-456-7894 <br>
                                     Email Address:info@strap.com</p>
-                                </address>
+                                </!--address>
                             </li>
 
 
@@ -132,7 +133,7 @@
                                     HYD, DS 75864</p>
                                     <p>Phone:123-456-7894 <br>
                                     Email Address:info@strap.com</p>
-                                </address>
+                                </address-->
                             </li>
                         </ul>
                     </div>
@@ -146,44 +147,51 @@
         <br />
         <br />
             <div class="center">        
-                <h2>Drop Your Message</h2>
-                <p class="lead">We will get back you soon. Keep In Touch. For More Bootstrap asp.net Templates..</p>
+                <h2>Mesajınızı iletin!</h2>
+                <p class="lead">Mesajınıza tarafımızdan mutlaka dönülecektir. İlginiz için teşekkür ederiz.</p>
             </div> 
             <div class="row contact-wrap"> 
                 <div class="status alert alert-success" style="display: none"></div>
                 <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php">
                     <div class="col-sm-5 col-sm-offset-1">
                         <div class="form-group">
-                            <label>Name *</label>
+                            <label>İsim *</label>
                                <asp:TextBox ID="txtName" CssClass="form-control" runat="server" required="required"></asp:TextBox>
                              </div>
+                         <div class="form-group">
+                            <label>Soyisim *</label>
+                               <asp:TextBox ID="txtSurname" CssClass="form-control" runat="server" required="required"></asp:TextBox>
+                             </div>
                         <div class="form-group">
-                            <label>Email *</label>
+                            <label>Mail Adresi *</label>
                             <asp:TextBox ID="txtemail" CssClass="form-control" runat="server" required="required"></asp:TextBox>
                           
                         </div>
                         <div class="form-group">
-                            <label>Phone</label>
-                            <input type="number" class="form-control">
+                            <label>Telefon</label>
+                            <!--input type="number" class="form-control"-->
+                            <asp:TextBox ID="txtNumber" CssClass="form-control" runat="server" required="required"></asp:TextBox>
                         </div>
                         <div class="form-group">
-                            <label>Company Name</label>
+                            <label>Şirket İsmi</label>
                           <asp:TextBox ID="txtcmpnm" runat="server" CssClass="form-control" required="required"></asp:TextBox>
                         </div>                        
                     </div>
                     <div class="col-sm-5">
                         <div class="form-group">
-                            <label>Subject *</label>
+                            <label>Konu *</label>
                             <asp:TextBox ID="txtsubject" runat="server" CssClass="form-control" required="required"></asp:TextBox>
                             
                         </div>
                         <div class="form-group">
-                            <label>Message *</label>
+                            <label>Mesaj *</label>
                             <asp:TextBox ID="txtmsg" runat="server" CssClass="form-control" required="required" Rows="8" TextMode="MultiLine"></asp:TextBox>
                            
                         </div>                        
                         <div class="form-group">
-                            <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Submit Message</button>
+                            <%--<button type="submit" name="submit" OnClick="Button_submit_Click" class="btn btn-primary btn-lg" required="required">Gönder</button>--%>
+                        
+                            <asp:Button ID="btnsend" class="btn btn-primary btn-lg" runat="server" OnClick="Button_submit_Click" Text="Gönder" />
                         </div>
                     </div>
                 </form> 
@@ -198,7 +206,7 @@
                     <div class="widget">
                         <h3>Company</h3>
                         <ul>
-                            <li><a href="#">About us</a></li>
+                            <li><a href="#">Hakkımızda</a></li>
                             <li><a href="#">We are hiring</a></li>
                             <li><a href="#">Meet the team</a></li>
                             <li><a href="#">Copyright</a></li>

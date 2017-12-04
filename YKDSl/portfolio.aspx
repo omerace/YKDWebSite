@@ -74,7 +74,7 @@
                             </ul>
                         </li>
                         <li><a href="#">Blog</a></li> 
-                        <li><a href="contactus.aspx">Contact</a></li>                        
+                        <li><a href="contactus.aspx">İLETİŞİM</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->

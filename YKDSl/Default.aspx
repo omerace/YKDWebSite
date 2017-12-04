@@ -75,7 +75,7 @@
                             </ul>
                         </li>
                         <li><a href="#">Blog</a></li> 
-                        <li><a href="contactus.aspx">Contact</a></li>                        
+                        <li><a href="contactus.aspx">İLETİŞİM</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->
@@ -96,9 +96,9 @@
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first web sites.</h1>
+                                    <!--h1 class="animation animated-item-1">Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first web sites.</!--h1>
                                     <h2 class="animation animated-item-2">Bootstrap is completely free to download and use!</h2>
-                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a-->
                                 </div>
                             </div>
 
@@ -117,9 +117,9 @@
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">What is Responsive Web Design?</h1>
+                                    <!--h1 class="animation animated-item-1">What is Responsive Web Design?</!--h1>
                                     <h2 class="animation animated-item-2">Responsive web design is about creating web sites which automatically adjust themselves to look good on all devices, from small phones to large desktops.</h2>
-                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a-->
                                 </div>
                             </div>
 
@@ -138,9 +138,9 @@
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">Mobile-first approach</h1>
+                                    <!--h1 class="animation animated-item-1">Mobile-first approach</!--h1>
                                     <h2 class="animation animated-item-2">In Bootstrap 3, mobile-first styles are part of the core framework</h2>
-                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a-->
                                 </div>
                             </div>
                             <!--div class="col-sm-6 hidden-xs animation animated-item-4">
@@ -164,8 +164,8 @@
     <section id="feature">
         <div class="container">
            <div class="center wow fadeInDown">
-                <h2>Features</h2>
-                <p class="lead">Easy to use, Responsive features, Mobile-first approach <br> Browser compatibility Bootstrap is compatible with all modern browsers</p>
+                <h2>HİZMETLERİMİZ</h2>
+                <p class="lead">İç ve Dış dekorasyon olmak üzere güvenilir çalışma disiplini, isteğe bağlı kalarak özgün ve farklı dekorasyonları, hizmet sonrası memnuniyet ilkeleri çerçevesinde birçok alanda hizmet vermekteyiz.</p>
             </div>
 
             <div class="row">
@@ -359,9 +359,9 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
-                        <h3>Company</h3>
+                        <h3>Şirket</h3>
                         <ul>
-                            <li><a href="#">About us</a></li>
+                            <li><a href="aboutus.aspx">Hakkımızda</a></li>
                             <li><a href="#">We are hiring</a></li>
                             <li><a href="#">Meet the team</a></li>
                             <li><a href="#">Copyright</a></li>
