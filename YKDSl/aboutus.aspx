@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>HAKKIMIZDA</title>
+    <title>YKD Dekorasyon-Hakkımızda</title>
     <%-- ------ CSS ------ --%>
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
@@ -26,7 +26,7 @@
 </head>
 <body>
     <header id="header">
-  <%--  <div class="top-bar">
+  <div class="top-bar">
     <div class="container">
     <div class="row">
     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
@@ -45,7 +45,7 @@
     </div>
     </div>
       </div>
-        </div>--%>
+        </div>
 
          <nav class="navbar navbar-inverse" role="banner">
             <div class="container">
@@ -61,11 +61,11 @@
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li><a href="Default.aspx">Anasayfa</a></li>
-                        <li class="active"><a href="aboutus.aspx">Hakkımızda</a></li>
-                        <li><a href="portfolio.aspx">Projeler</a></li>
-                        <li><a href="services.aspx">Hizmetler</a></li>                        
-                        <li><a href="contactus.aspx">İletişim</a></li>                        
+                        <li><a href="Default.aspx">ANASAYFA</a></li>
+                        <li class="active"><a href="aboutus.aspx">HAKKIMIZDA</a></li>
+                        <li><a href="portfolio.aspx">PROJELER</a></li>
+                        <li><a href="services.aspx">HİZMETLER</a></li>                        
+                        <li><a href="contactus.aspx">İLETİŞİM</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->
@@ -76,7 +76,7 @@
         <section id="portfolio">
         <div class="container">
             <div class="center">
-               <h2>HAKKIMIZDA</h2>
+               <h6>HAKKIMIZDA</h6>
                <p class="lead">YKD Dekorasyon, iç ve dış dekorasyon alanında 2000 yılından beri faaliyet göstermektedir. Deneyimlerine dayanarak birçok alanda aktif olarak yer almaktadır. Ayrıca dinamik olarak değişim gösteren dekorasyon sektöründe son trendleri ve uygulamaları takip ederek kendini sürekli geliştirmeye de devam etmektedir.
 YKD Dekorasyon, hizmet skalasında her kesime ve alana hitap edebilmeyi hedeflemiş ve bu doğrultuda her müşterisine özel hizmetler sunmaya devam etmektedir.</p>
             </div>

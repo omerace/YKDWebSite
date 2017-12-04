@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Services | Bootstrap .net Templates</title>
+    <title>YKD Dekorasyon-Hizmetler</title>
     <%-- ------ CSS ------ --%>
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
@@ -26,7 +26,7 @@
 <body>
     <form id="form1" runat="server">
     <header id="header">
-   <%-- <div class="top-bar">
+   <div class="top-bar">
     <div class="container">
     <div class="row">
     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
@@ -45,7 +45,7 @@
     </div>
     </div>
       </div>
-        </div>--%>
+        </div>
       <nav class="navbar navbar-inverse" role="banner">
             <div class="container">
                 <div class="navbar-header">
@@ -60,11 +60,11 @@
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li><a href="Default.aspx">Anasayfa</a></li>
-                        <li><a href="aboutus.aspx">Hakkımızda</a></li>
-                        <li><a href="portfolio.aspx">Projeler</a></li>
-                        <li class="active"><a href="services.aspx">Hizmetler</a></li>                        
-                        <li><a href="contactus.aspx">İletişim</a></li>                        
+                        <li><a href="Default.aspx">ANASAYFA</a></li>
+                        <li><a href="aboutus.aspx">HAKKIMIZDA</a></li>
+                        <li><a href="portfolio.aspx">PROJELER</a></li>
+                        <li class="active"><a href="services.aspx">HİZMETLER</a></li>                        
+                        <li><a href="contactus.aspx">İLETİŞİM</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->
@@ -74,7 +74,7 @@
     <section id="feature">
         <div class="container">
            <div class="center wow fadeInDown">
-                <h2 style="text-align:center">Hizmetler</h2>
+                <h5 style="text-align:center">HİZMETLERİMİZ</h5>
                 <p class="lead">Bütün işler isteğe göre projelendirilip, tamamen müşterilerin istekleri doğrultusunda yapılmaktadır. Yakın zamanda devreye girecek olan "Evinizi Evinizde Kendiniz Tasarlayın" projesi ile sizlerle birlikte evinizi evinizde 3B ortamda tasarlayacağız. </p>
             </div>
 
