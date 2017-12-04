@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Home | Bootstrap .net Templates</title>
+    <title>YKD Kardeşler Dekorasyon</title>
     <%-- ------ CSS ------ --%>
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
@@ -27,25 +27,25 @@
 <body>
     <form id="form1" runat="server">
     <header id="header">
-    <div class="top-bar">
+    <%--<div class="top-bar">
     <div class="container">
     <div class="row">
-    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+   <%-- <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
       <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Bizi Sosyal Medyada da Takip Edebilirsiniz! </p></div>
     </div>
-     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+<%--     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
       <div class="social">
      <ul class="social-share">
         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
         <li><a href="#"><i class="fa fa-linkedin"></i></a></li>        
         <li><a href="#"><i class="fa fa-skype"></i></a></li>
-     </ul>     
+     </ul>    
        
     </div>
     </div>
     </div>
-      </div><%--container--%>
+      </div><%--container
         </div><%--/top-bar--%>
       <nav class="navbar navbar-inverse" role="banner">
             <div class="container">
@@ -61,21 +61,11 @@
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="Default.aspx">ANASAYFA</a></li>
-                        <li><a href="aboutus.aspx">HAKKIMIZDA</a></li>
-                        <li><a href="portfolio.aspx">PROJELERİMİZ</a></li>
-                        <li><a href="services.aspx">Services</a></li>                        
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Blog Single</a></li>
-                                <li><a href="#">Pricing</a></li>
-                                <li><a href="#">404</a></li>
-                                <li><a href="#">Shortcodes</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Blog</a></li> 
-                        <li><a href="contactus.aspx">İLETİŞİM</a></li>                        
+                        <li class="active"><a href="Default.aspx">Anasayfa</a></li>
+                        <li><a href="aboutus.aspx">Hakkımızda</a></li>
+                        <li><a href="portfolio.aspx">Projeler</a></li>
+                        <li><a href="services.aspx">Hizmetler</a></li>                        
+                        <li><a href="contactus.aspx">İletişim</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->

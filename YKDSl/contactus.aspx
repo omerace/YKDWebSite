@@ -26,7 +26,7 @@
 <body>
     <form id="form1" runat="server">
     <header id="header">
-    <div class="top-bar">
+<%--    <div class="top-bar">
     <div class="container">
     <div class="row">
     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
@@ -44,8 +44,8 @@
     </div>
     </div>
     </div>
-      </div><%--container--%>
-        </div><%--/top-bar--%>
+      </div>
+        </div>--%>
       <nav class="navbar navbar-inverse" role="banner">
             <div class="container">
                 <div class="navbar-header">
@@ -60,21 +60,11 @@
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li><a href="Default.aspx">ANASAYFA</a></li>
-                        <li><a href="aboutus.aspx">HAKKIMIZDA</a></li>
-                       <li><a href="portfolio.aspx">PROJELERİMİZ</a></li>
-                        <li><a href="services.aspx">Services</a></li>                        
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Blog Single</a></li>
-                                <li><a href="#">Pricing</a></li>
-                                <li><a href="#">404</a></li>
-                                <li><a href="#">Shortcodes</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Blog</a></li> 
-                        <li  class="active"><a href="contactus.aspx">İLETİŞİM</a></li>                        
+                        <li><a href="Default.aspx">Anasayfa</a></li>
+                        <li><a href="aboutus.aspx">Hakkımızda</a></li>
+                        <li><a href="portfolio.aspx">Projeler</a></li>
+                        <li><a href="services.aspx">Hizmetler</a></li>         
+                        <li  class="active"><a href="contactus.aspx">İletişim</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->
