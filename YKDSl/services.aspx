@@ -75,7 +75,18 @@
         <div class="container">
            <div class="center wow fadeInDown">
                 <h5 style="text-align:center">HİZMETLERİMİZ</h5>
-                <p class="lead">Bütün işler isteğe göre projelendirilip, tamamen müşterilerin istekleri doğrultusunda yapılmaktadır. Yakın zamanda devreye girecek olan "Evinizi Evinizde Kendiniz Tasarlayın" projesi ile sizlerle birlikte evinizi evinizde 3B ortamda tasarlayacağız. </p>
+                <!--p class="lead">Bütün işler isteğe göre projelendirilip, tamamen müşterilerin istekleri doğrultusunda yapılmaktadır. Yakın zamanda devreye girecek olan "Evinizi Evinizde Kendiniz Tasarlayın" projesi ile sizlerle birlikte evinizi evinizde 3B ortamda tasarlayacağız.
+
+                </!--p-->
+               <p class="lead">YKD Dekorasyon olarak uzun yıllardır birçok alanda hizmet vermekteyiz. Bu süreçte
+sahip olduğumuz deneyim, uzman ekibimiz ve değerli müşterilerimiz istekleri 
+bizi başarıya götüren en önemli unsurlardır. Firmamızın ilk önceliği değerli
+müşterilerimizin beklentilerini boşa çıkarmamak ve hizmetimizi güven altyapısı 
+üzerine inşa etmektir. YKD Dekorasyon olarak dekorasyon sektöründeki yeniliklere
+hızlı uyum sağlamakta bizim için ayrı bir önem taşımaktadır. Bu doğrultuda 
+siz değerli müşterilerimiz için dekorasyon sürecini kolaylaştıracak yeni
+programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem öncesi
+3B ortamda birlikte tasarlayarak karar vereceğiz. </p>
             </div>
 
             <div class="row">
@@ -323,9 +334,9 @@
     <!--/#feature-->
     <div class="clients-area center wow fadeInDown">
         <h2 style="text-align:center">
-            Geri Dönüşler</h2>
+            Müşterilerimizin Görüşleri</h2>
         <p class="lead">
-            Projeler teslim edilme aşamasında sizlerden yapılan geri dönüşler bizleri bu noktaya taşıdı.</p>
+            Hizmet sonrasında müşterilerimizden aldığımız değerlendirmeler ve yorumlar, bu noktaya gelmemizdeki önemli etkenlerden biridir.</p>
     </div>
     <div class="container">
         <div class="col-md-4 wow fadeInDown">

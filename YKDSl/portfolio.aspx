@@ -74,8 +74,8 @@
     <section id="portfolio">
         <div class="container">
             <div class="center">
-               <h2>Portfolio</h2>
-               <p class="lead">There are many versions of portfolio online, where the reader can follow the links to the artifacts online. <br> In this version of my portfolio, I provide an overview and explanation of the artifacts.</p>
+               <h2>PROJELER</h2>
+               <p class="lead">Bugüne kadar hayata geçirdiğimiz sayısız projemiz, neden bizi tercih etmeniz konusunda size yardımcı olacaktır.</p>
             </div>
         
 
