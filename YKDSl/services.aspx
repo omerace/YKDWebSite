@@ -83,14 +83,16 @@
                     
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <!--i class="fa fa-th-list"></!--i-->
+                           <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Dış Cephe Mantolama</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <!--i class="fa fa-th-list"></!--i-->
+                           <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Çatı Aktarma</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -98,14 +100,16 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <!--i class="fa fa-th"></!--i-->
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Amerikan Siding</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                          <i class="fa fa-home" aria-hidden="true"></i>
+                            <!--i class="fa fa-th-list"></!--i-->
                             <h2 style="text-align:center">Fayans - Kalebodur</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -113,14 +117,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                           <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Cam Mozaik</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                           <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Hilton Lavabo</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -128,14 +132,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Mermer - Karo</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                           <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Duvar Kağıdı</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -143,14 +147,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Cam Balkon</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Mutfak Dolabı</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -158,14 +162,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Laminant Parke</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Tavan Kaplama</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -173,14 +177,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Şömine</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Peyzaj</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -188,14 +192,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Ferforje</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Kilit Taşı</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -203,14 +207,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Asma Tavan</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Alçıpan</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -218,14 +222,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Alçı - Sıva</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Söve Denizlik</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -233,14 +237,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Dranjer</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Cam Tuğla</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -248,14 +252,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Kartonpiyer</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Sıhhi Tesisat</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -263,14 +267,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Isı-Su-Ses İzolasyonu</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Kara Sıva</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -278,14 +282,14 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Boya</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th-list"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">PVC Kapı - Pencere</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -293,21 +297,21 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">A. Panel Kapı</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Dekoratif Duvar - Yer - Tavan Kaplama</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-th"></i>
+                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Taş Duvar</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>

@@ -161,7 +161,7 @@
             <div class="row">
                 <div class="features">
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="feature-wrap">
+                        <div class="feature-wrap" >
                             <i class="fa fa-th-list"></i>
                             <h2>Menu or Navbar</h2>
                             <h3>A standard navigation class navbar navbar-default</h3>
