@@ -30,7 +30,7 @@
     <div class="container">
     <div class="row">
     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-      <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Keep In Tounch </p></div>
+      <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Bizi Sosyal Medyada da Takip Edebilirsiniz! </p></div>
     </div>
      <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
       <div class="social">
@@ -97,7 +97,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                             <!--i class="fa fa-th-list"></!--i-->
                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Dış Cephe Mantolama</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Mantolama, ısı kaybını en aza indirgeyerek enerji tasarrufu sağlar. Aynı zamanda çevrenin korunması ve gürültüyü azaltarak daha konforlu bir yaşam alanı oluşturur.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
@@ -105,7 +105,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                             <!--i class="fa fa-th-list"></!--i-->
                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Çatı Aktarma</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Çatı örtüleri dış hava şartlarına karşı yapının korunmasını ve su yalıtımını sağlar. Belli bir dönem sonra işlevselliğini kaybeden çatıların onarılma sı için “Çatı Aktarma” işlemi gerçekleştirilir.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
@@ -114,7 +114,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                             <!--i class="fa fa-th"></!--i-->
                             <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Amerikan Siding</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Amerikan Siding; üretim, montaj ve kullanım açısında oldukça kolay, çevreci ve uzun ömürlü bir uygulamadır. Hava koşullarına karşı Co-Extrüzyon teknolojisi ile üretilmiş olan çift katmanlı yapısı, dayanıklılık ve direnç sağlar. </h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
@@ -122,7 +122,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                           <i class="fa fa-home" aria-hidden="true"></i>
                             <!--i class="fa fa-th-list"></!--i-->
                             <h2 style="text-align:center">Fayans - Kalebodur</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Fayans ve Kalebodur uygulanan alana kolay temizlenebilirlik ve az kir tutma özelliği kazandırmasının yanı sıra dekorasyon olarak şık ve modern bir görüntü oluşturur.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
@@ -130,7 +130,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                         <div class="feature-wrap">
                            <i class="fa fa-home" aria-hidden="true"></i>
                             <h2 style="text-align:center">Cam Mozaik</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Cam Mozaik, iç ve dış mekanlarda modern bir dizayn oluşturur. Aynı zamanda derz dokusu sayesinde anti-bakteriyel özellik sağladığı için özellikle hijyen gerektiren mutfak gibi alanlarda tercih edilebilir.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
@@ -341,7 +341,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
     <div class="container">
         <div class="col-md-4 wow fadeInDown">
             <div class="clients-comments text-center">
-                <img src="images/client1.png" class="img-circle" alt="">
+                <img src="images/tcdd_.jpg" class="img-circle" alt="">
                 <h3>
                     İzmir Tren Hangarı İşletmesi </h3>
                 <h4>
@@ -350,7 +350,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
         </div>
         <div class="col-md-4 wow fadeInDown">
             <div class="clients-comments text-center">
-                <img src="images/client2.png" class="img-circle" alt="">
+                <img src="images/unal_.png" class="img-circle" alt="">
                 <h3>
                     Ünal Kuruyemiş İşletmeciliği</h3>
                 <h4>
@@ -359,7 +359,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
         </div>
         <div class="col-md-4 wow fadeInDown">
             <div class="clients-comments text-center">
-                <img src="images/client3.png" class="img-circle" alt="">
+                <img src="images/29-mayıs-devlet-hastanesi-logo.png" class="img-circle" alt="">
                 <h3>
                     29 Mayıs Devlet Hastanesi İşl.</h3>
                 <h4>
