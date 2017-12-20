@@ -67,11 +67,11 @@
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="Default.aspx">ANASAYFA</a></li>
+                        <li  class="active"><a href="Default.aspx">ANASAYFA</a></li>
+                        <li><a href="aboutus.aspx">HAKKIMIZDA</a></li>
                         <li><a href="portfolio.aspx">PROJELER</a></li>
-                        <li><a href="services.aspx">HİZMETLER</a></li>                        
-                        <li><a href="contactus.aspx">İLETİŞİM</a></li>  
-                        <li><a href="aboutus.aspx">HAKKIMIZDA</a></li>                      
+                        <li><a href="services.aspx">HİZMETLER</a></li>         
+                        <li><a href="contactus.aspx">İLETİŞİM</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->
