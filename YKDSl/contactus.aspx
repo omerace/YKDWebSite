@@ -15,6 +15,12 @@
     <link href="css/prettyPhoto.css" rel="stylesheet" type="text/css" />
     <link href="css/main.css" rel="stylesheet" type="text/css" />
     <link href="css/responsive.css" rel="stylesheet" type="text/css" />
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="js/jquery.prettyPhoto.js" type="text/javascript"></script>
+    <script src="js/jquery.isotope.min.js" type="text/javascript"></script>
+    <script src="js/main.js" type="text/javascript"></script>
+    <script src="js/wow.min.js" type="text/javascript"></script>
      <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
         rel="stylesheet" type="text/css" />
     <!--[if lt IE 9]>
@@ -30,7 +36,7 @@
     <div class="container">
     <div class="row">
     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-      <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Bizi Sosyal Medyada da Takip Edebilirsiniz! </p></div>
+      <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Bizi Sosyal Medyadan Takip Edebilirsiniz! </p></div>
     </div>
      <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
       <div class="social">
@@ -189,7 +195,7 @@
         </div><!--/.container-->
     </section>
     <!--/#contact-page-->
-    <section id="bottom">
+<%--    <section id="bottom">
         <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
@@ -253,20 +259,21 @@
                 </div><!--/.col-md-3-->
             </div>
         </div>
-    </section>
+    </section>--%>
     <!--/#bottom-->
     <footer id="footer" class="midnight-blue">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2015 <a target="_blank" href="http://aspxtemplates.com/" title="Free Twitter Bootstrap asp.net templates">aspxtemplates</a>. All Rights Reserved.
+                    &copy; 2017 YKD Kardeşler Dekorasyon Bütün Hakları Saklıdır.
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Faq</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="Default.aspx">ANASAYFA</a></li>
+                        <li><a href="services.aspx">HİZMETLER</a></li>
+                        <li><a href="portfolio.aspx">PROJELER</a></li>
+                        <li><a href="aboutus.aspx">HAKKIMIZDA</a></li>
+                        <li><a href="contactus.aspx">İLETİŞİM</a></li>
                     </ul>
                 </div>
             </div>
@@ -296,12 +303,6 @@
     </script>
     <!-- /top-link-block -->
     <!-- Jscript -->
-    <script src="js/jquery.js" type="text/javascript"></script>
-    <script src="js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="js/jquery.prettyPhoto.js" type="text/javascript"></script>
-    <script src="js/jquery.isotope.min.js" type="text/javascript"></script>
-    <script src="js/main.js" type="text/javascript"></script>
-    <script src="js/wow.min.js" type="text/javascript"></script>
     </form>
 </body>
 </html>

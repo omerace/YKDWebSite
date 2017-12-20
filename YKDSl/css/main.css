@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,300,800);
+ï»¿@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,300,800);
 
 
 /*************************
@@ -189,13 +189,13 @@ body > section {
 
 .top-bar
 {
-    padding: 10px 0;
-    /*background: #0066CC; MAVÝ */
-    background: #b3b3b3;/*GRÝ*/
+    padding: 0px 0;
+    /*background: #0066CC; MAVÄ° */
+    background: #b3b3b3;/*GRÄ°*/
     border-bottom: 1px solid #222;
     line-height: 28px;
     border-bottom-color:#b3b300;
-   /*border-bottom-color: #0054A8; MAVÝ*/ 
+   /*border-bottom-color: #0054A8; MAVÄ°*/ 
 }
 
 .top-number{
@@ -519,7 +519,7 @@ input.search-form:hover {
     position: relative;
 }
 
-#main-slider .carousel-indicators .active:after/*SAYFA DEÐÝÞÝMLERÝNDEKÝ DAÝRELER*/
+#main-slider .carousel-indicators .active:after/*SAYFA DEÄžÄ°ÅžÄ°MLERÄ°NDEKÄ° DAÄ°RELER*/
 {
     position: absolute;
     content: "";
@@ -614,8 +614,8 @@ input.search-form:hover {
 {
     background: #006699;
     color: #fff;
-    box-shadow: inset 0 0 0 5px ##006699;
-    -webkit-box-shadow: inset 0 0 0 5px ##006699;
+    box-shadow: inset 0 0 0 5px #006699;
+    -webkit-box-shadow: inset 0 0 0 5px #006699;
     border: 3px solid #006699;
 }
 
@@ -742,22 +742,22 @@ input.search-form:hover {
 
 .progress .color1,
 .progress .color1 .bar-width{
-  background: #2d7da4;
+  background: #ffebcc !important;
 }
 
 .progress .color2,
 .progress .color2 .bar-width{
-  background: #6aa42f;
+  background: #ffe0b3 !important;
 }
 
 .progress .color3,
 .progress .color3 .bar-width{
-  background: #ffcc33;
+  background: #ffd699 !important;
 }
 
 .progress .color4,
 .progress .color4 .bar-width{
-  background: #db3615;
+  background: #ffcc80 !important;
 }
 
 .progress, 
@@ -806,19 +806,19 @@ input.search-form:hover {
 }
 
 .progress .color1 span:before{
-  border-color: #2d7da4 transparent transparent transparent;
+  border-color: #ffebcc transparent transparent transparent;
 }
 
 .progress .color2 span:before{
-  border-color: #6aa42f transparent transparent transparent;
+  border-color: #ffe0b3 transparent transparent transparent;
 }
 
 .progress .color3 span:before{
-  border-color: #ffcc33 transparent transparent transparent;
+  border-color: #ffd699 transparent transparent transparent;
 }
 
 .progress .color4 span:before{
-  border-color: #db3615 transparent transparent transparent;
+  border-color: #ffcc80 transparent transparent transparent;
 }
 
 .accordion h2

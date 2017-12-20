@@ -15,6 +15,13 @@
     <link href="css/prettyPhoto.css" rel="stylesheet" type="text/css" />
     <link href="css/main.css" rel="stylesheet" type="text/css" />
     <link href="css/responsive.css" rel="stylesheet" type="text/css" />
+    
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="js/jquery.prettyPhoto.js" type="text/javascript"></script>
+    <script src="js/jquery.isotope.min.js" type="text/javascript"></script>
+    <script src="js/main.js" type="text/javascript"></script>
+    <script src="js/wow.min.js" type="text/javascript"></script>
      <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
         rel="stylesheet" type="text/css" />
     <!--[if lt IE 9]>
@@ -30,7 +37,7 @@
     <div class="container">
     <div class="row">
     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-      <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Bizi Sosyal Medyada da Takip Edebilirsiniz! </p></div>
+      <div class="top-number"><p><i class="fa fa-thumbs-up"></i> Bizi Sosyal Medyadan Takip Edebilirsiniz! </p></div>
     </div>
      <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
       <div class="social">
@@ -79,7 +86,7 @@
 
                 </!--p-->
                <p class="lead">YKD Dekorasyon olarak uzun yıllardır birçok alanda hizmet vermekteyiz. Bu süreçte
-sahip olduğumuz deneyim, uzman ekibimiz ve değerli müşterilerimiz istekleri 
+sahip olduğumuz deneyim, uzman ekibimiz ve değerli müşterilerimizin istekleri 
 bizi başarıya götüren en önemli unsurlardır. Firmamızın ilk önceliği değerli
 müşterilerimizin beklentilerini boşa çıkarmamak ve hizmetimizi güven altyapısı 
 üzerine inşa etmektir. YKD Dekorasyon olarak dekorasyon sektöründeki yeniliklere
@@ -95,7 +102,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
                             <!--i class="fa fa-th-list"></!--i-->
-                           <i class="fa fa-home" aria-hidden="true"></i>
+                           <i style="content:url(../images/services/cephe-mantolama-2.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Dış Cephe Mantolama</h2>
                             <h3>Mantolama, ısı kaybını en aza indirgeyerek enerji tasarrufu sağlar. Aynı zamanda çevrenin korunması ve gürültüyü azaltarak daha konforlu bir yaşam alanı oluşturur.</h3>
                         </div>
@@ -103,7 +110,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
                             <!--i class="fa fa-th-list"></!--i-->
-                           <i class="fa fa-home" aria-hidden="true"></i>
+                           <i style="content:url(../images/services/catiaktarma.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Çatı Aktarma</h2>
                             <h3>Çatı örtüleri dış hava şartlarına karşı yapının korunmasını ve su yalıtımını sağlar. Belli bir dönem sonra işlevselliğini kaybeden çatıların onarılma sı için “Çatı Aktarma” işlemi gerçekleştirilir.</h3>
                         </div>
@@ -112,14 +119,14 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
                             <!--i class="fa fa-th"></!--i-->
-                            <i class="fa fa-home" aria-hidden="true"></i>
+                           <i style="content:url(../images/services/siding.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Amerikan Siding</h2>
                             <h3>Amerikan Siding; üretim, montaj ve kullanım açısında oldukça kolay, çevreci ve uzun ömürlü bir uygulamadır. Hava koşullarına karşı Co-Extrüzyon teknolojisi ile üretilmiş olan çift katmanlı yapısı, dayanıklılık ve direnç sağlar. </h3>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                          <i class="fa fa-home" aria-hidden="true"></i>
+                          <i style="content:url(../images/services/fayans.jpeg);" aria-hidden="true"></i>
                             <!--i class="fa fa-th-list"></!--i-->
                             <h2 style="text-align:center">Fayans - Kalebodur</h2>
                             <h3>Fayans ve Kalebodur uygulanan alana kolay temizlenebilirlik ve az kir tutma özelliği kazandırmasının yanı sıra dekorasyon olarak şık ve modern bir görüntü oluşturur.</h3>
@@ -128,7 +135,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                           <i class="fa fa-home" aria-hidden="true"></i>
+                           <i style="content:url(../images/services/cammozaik.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Cam Mozaik</h2>
                             <h3>Cam Mozaik, iç ve dış mekanlarda modern bir dizayn oluşturur. Aynı zamanda derz dokusu sayesinde anti-bakteriyel özellik sağladığı için özellikle hijyen gerektiren mutfak gibi alanlarda tercih edilebilir.</h3>
                         </div>
@@ -180,7 +187,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-home" aria-hidden="true"></i>
+                           <i style="content:url(../images/services/tavankaplama.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Tavan Kaplama</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -240,7 +247,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-home" aria-hidden="true"></i>
+                           <i style="content:url(../images/services/sove.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Söve Denizlik</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -248,7 +255,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-home" aria-hidden="true"></i>
+                           <i style="content:url(../images/services/drenaj.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Dranjer</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -263,7 +270,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-home" aria-hidden="true"></i>
+                           <i style="content:url(../images/services/kartonpiyer.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Kartonpiyer</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -278,7 +285,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-home" aria-hidden="true"></i>
+                           <i style="content:url(../images/services/ısısuses.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Isı-Su-Ses İzolasyonu</h2>
                             <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
                         </div>
@@ -436,16 +443,17 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
     <!--/#bottom-->
     <footer id="footer" class="midnight-blue">
         <div class="container">
-            <div class="row">
+                       <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2015 <a target="_blank" href="http://aspxtemplates.com/" title="Free Twitter Bootstrap asp.net templates">aspxtemplates</a>. All Rights Reserved.
+                    &copy; 2017 YKD Kardeşler Dekorasyon Bütün Hakları Saklıdır.
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Faq</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="Default.aspx">ANASAYFA</a></li>
+                        <li><a href="services.aspx">HİZMETLER</a></li>
+                        <li><a href="portfolio.aspx">PROJELER</a></li>
+                        <li><a href="aboutus.aspx">HAKKIMIZDA</a></li>
+                        <li><a href="contactus.aspx">İLETİŞİM</a></li>
                     </ul>
                 </div>
             </div>
@@ -475,12 +483,6 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
     </script>
     <!-- /top-link-block -->
     <!-- Jscript -->
-    <script src="js/jquery.js" type="text/javascript"></script>
-    <script src="js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="js/jquery.prettyPhoto.js" type="text/javascript"></script>
-    <script src="js/jquery.isotope.min.js" type="text/javascript"></script>
-    <script src="js/main.js" type="text/javascript"></script>
-    <script src="js/wow.min.js" type="text/javascript"></script>
     </form>
 </body>
 </html>
