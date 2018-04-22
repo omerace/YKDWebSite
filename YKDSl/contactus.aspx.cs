@@ -25,12 +25,12 @@ public partial class contactus : System.Web.UI.Page
     public bool sendmail(string name, string surname, string mail_,string number, string company, string subject,string message)
     {
         MailMessage mail = new MailMessage();
-        mail.From = new MailAddress("aycaozdemir18@gmail.com"); // info@admin.com will be default 
-        mail.To.Add("aycaozdemir18@gmail.com");
+        mail.From = new MailAddress("omerace@gmail.com"); // info@admin.com will be default 
+        mail.To.Add("omerace@gmail.com");
         mail.Subject = subject;
-        mail.Body = name + " " + surname + " Kişisinden\n Tel:" + number + "Mail: " + mail_ + "Şirket: " + company + "\n\n\n" + message;
+        mail.Body = name + " " + surname + " Kişisinden\n Tel:" + number + "\nMail: " + mail_ + "\nŞirket: " + company + "\n\n\n" + message;
         SmtpClient smtp = new SmtpClient("smtp.gmail.com");
-        smtp.Credentials = new System.Net.NetworkCredential("omerace@gmail.com", "aere0312yh47979");
+        smtp.Credentials = new System.Net.NetworkCredential("infoykdmail@gmail.com", "aere0312yh479");
         smtp.Port = 587;
         smtp.EnableSsl = true;
         bool control = true;

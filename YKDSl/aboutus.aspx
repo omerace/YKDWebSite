@@ -22,7 +22,7 @@
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <%-- <link rel="shortcut icon" href="images/favicon.ico" />--%>
 </head>
 <body>
     <header id="header">
@@ -56,7 +56,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="Default.aspx"><img src="images/logo.png" alt="logo"></a>
+                    <a class="navbar-brand" href="Default.aspx"><p style="text-align:center">YKD Kardeşler <br />İç & Dış Dekorasyon</p></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">

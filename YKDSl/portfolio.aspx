@@ -21,17 +21,17 @@
     <script src="js/jquery.isotope.min.js" type="text/javascript"></script>
     <script src="js/main.js" type="text/javascript"></script>
     <script src="js/wow.min.js" type="text/javascript"></script>
-     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
         rel="stylesheet" type="text/css" />
     <!--[if lt IE 9]>
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <%-- <link rel="shortcut icon" href="images/favicon.ico" />--%>
 </head>
 <body>
     <form id="form1" runat="server">
-    <header id="header">
+        <header id="header">
   <div class="top-bar">
     <div class="container">
     <div class="row">
@@ -61,7 +61,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="Default.aspx"><img src="images/logo.png" alt="logo"></a>
+                    <a class="navbar-brand" href="Default.aspx"><p style="text-align:center">YKD Kardeşler <br />İç & Dış Dekorasyon</p></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
@@ -77,7 +77,7 @@
         </nav><!--/nav-->
  
     </header>
-    <section id="portfolio">
+        <section id="portfolio">
         <div class="container">
             <div class="center">
                <h2>PROJELER</h2>
@@ -94,115 +94,322 @@
 
             <div class="row">
                 <div class="portfolio-items">
-                    <div class="portfolio-item apps col-xs-12 col-sm-4 col-md-3">
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
-                            <img class="img-responsive" src="images/portfolio/recent/item1.jpg" alt="">
+                            <img class="img-responsive" src="images/services/cephe-mantolama-2.jpg" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of contents available, but the majority</p>
-                                    <a class="preview" href="images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="images/services/cephe-mantolama-2.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Dış Cephe Mantolama</a>
                                 </div> 
                             </div>
                         </div>
-                    </div><!--/.portfolio-item-->
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/amerikan-siding.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/amerikan-siding.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Amerikan Siding</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/siding.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/siding.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Amerikan Siding</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/balkon-cam-kaplama.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/balkon-cam-kaplama.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Cam Balkon</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/cam-balkon.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/cam-balkon.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Cam Balkon</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/catiaktarma.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/catiaktarma.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Çatı Aktarma</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/drenaj.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/drenaj.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Drenaj</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/ferforje.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/ferforje.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Ferforje</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/ısısuses.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/ısısuses.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Isı-Su-Ses Yalıtımı</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/karasiva.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/karasiva.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Kara Sıva</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/kilit-tasi.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/kilit-tasi.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Kilit Taşı</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/peyzaj.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/peyzaj.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Peyzaj</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
+                    <div class="portfolio-item apps html col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/sove.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/sove.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Söve</a>
+                                </div> 
+                            </div>
+                        </div>
+                    </div><!--/.Dış Mekanlar -item-->
 
                     <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
-                            <img class="img-responsive" src="images/portfolio/recent/item2.jpg" alt="">
+                            <img class="img-responsive" src="images/services/alcipan.jpg" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of content available, but the majority</p>
-                                    <a class="preview" href="images/portfolio/full/item2.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="images/services/alcipan.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Alçıpan</a>
                                 </div> 
                             </div>
                         </div>          
-                    </div><!--/.portfolio-item-->
-
-                    <div class="portfolio-item bootstrap wordpress col-xs-12 col-sm-4 col-md-3">
+                    </div><!--/.İç Mekanlar-item-->                    
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
-                            <img class="img-responsive" src="images/portfolio/recent/item3.jpg" alt="">
+                            <img class="img-responsive" src="images/services/alcisiva.jpg" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of content available, but the majority</p>
-                                    <a class="preview" href="images/portfolio/full/item3.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
-                                </div> 
-                            </div>
-                        </div>        
-                    </div><!--/.portfolio-item-->
-
-                    <div class="portfolio-item joomla wordpress apps col-xs-12 col-sm-4 col-md-3">
-                        <div class="recent-work-wrap">
-                            <img class="img-responsive" src="images/portfolio/recent/item4.jpg" alt="">
-                            <div class="overlay">
-                                <div class="recent-work-inner">
-                                    <h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of content available, but the majority</p>
-                                    <a class="preview" href="images/portfolio/full/item4.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
-                                </div> 
-                            </div>
-                        </div>           
-                    </div><!--/.portfolio-item-->
-          
-                    <div class="portfolio-item joomla html bootstrap col-xs-12 col-sm-4 col-md-3">
-                        <div class="recent-work-wrap">
-                            <img class="img-responsive" src="images/portfolio/recent/item5.jpg" alt="">
-                            <div class="overlay">
-                                <div class="recent-work-inner">
-                                    <h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of content available, but the majority</p>
-                                    <a class="preview" href="images/portfolio/full/item5.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
-                                </div> 
-                            </div>
-                        </div>      
-                    </div><!--/.portfolio-item-->
-
-                    <div class="portfolio-item wordpress html apps col-xs-12 col-sm-4 col-md-3">
-                        <div class="recent-work-wrap">
-                            <img class="img-responsive" src="images/portfolio/recent/item6.jpg" alt="">
-                            <div class="overlay">
-                                <div class="recent-work-inner">
-                                    <h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of content available, but the majority</p>
-                                    <a class="preview" href="images/portfolio/full/item6.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
-                                </div> 
-                            </div>
-                        </div>         
-                    </div><!--/.portfolio-item-->
-
-                    <div class="portfolio-item wordpress html col-xs-12 col-sm-4 col-md-3">
-                        <div class="recent-work-wrap">
-                            <img class="img-responsive" src="images/portfolio/recent/item7.jpg" alt="">
-                            <div class="overlay">
-                                <div class="recent-work-inner">
-                                    <h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of content available, but the majority</p>
-                                    <a class="preview" href="images/portfolio/full/item7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="images/services/alcisiva.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Alçı-Sıva</a>
                                 </div> 
                             </div>
                         </div>          
-                    </div><!--/.portfolio-item-->
-
-                    <div class="portfolio-item wordpress html bootstrap col-xs-12 col-sm-4 col-md-3">
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
-                            <img class="img-responsive" src="images/portfolio/recent/item8.jpg" alt="">
+                            <img class="img-responsive" src="images/services/asmatavan.jpg" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Business theme</a></h3>
-                                    <p>There are many variations of passages of content available, but the majority</p>
-                                    <a class="preview" href="images/portfolio/full/item8.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="images/services/asmatavan.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Asmatavan</a>
                                 </div> 
                             </div>
                         </div>          
-                    </div><!--/.portfolio-item-->
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/cammozaik.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/cammozaik.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Cam Mozaik</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/camtugla.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/camtugla.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Cam Tuğla</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/dekoratif-.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/dekoratif-.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Dekoratif Kaplama</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/duvar-boya.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/duvar-boya.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Boya</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/duvar-kagidi.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/duvar-kagidi.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Duvar Kağıdı</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/fayans.jpeg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/fayans.jpeg" rel="prettyPhoto"><i class="fa fa-eye"></i>Fayans</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/kartonpiyer.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/kartonpiyer.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Kartonpiyer</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/laminant-parke.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/laminant-parke.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Laminant Parke</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/mermer-.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/mermer-.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Mermer</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/mutfak-dolabi.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/mutfak-dolabi.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Mutfak Dolabı</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/panel-kapi.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/panel-kapi.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>A. Panel Kapı</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/panelkapi-.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/panelkapi-.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>A. Panel Kapı</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/pvc.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/pvc.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>PVC Kapı-Pencere</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/somine.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/somine.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Şömine</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
+                    <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/services/tavankaplama.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <a class="preview" href="images/services/tavankaplama.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i>Tavan Kaplama</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.İç Mekanlar-item-->
                 </div>
             </div>
         </div>
     </section>
-    <!--/#portfolio-item-->
-  <%--  <section id="bottom">
+        <!--/#portfolio-item-->
+        <%--  <section id="bottom">
         <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
@@ -267,9 +474,9 @@
             </div>
         </div>
     </section>--%>
-    <!--/#bottom-->
-    <!--/#bottom-->
-    <footer id="footer" class="midnight-blue">
+        <!--/#bottom-->
+        <!--/#bottom-->
+        <footer id="footer" class="midnight-blue">
         <div class="container">
                        <div class="row">
                 <div class="col-sm-6">
@@ -288,29 +495,29 @@
         </div>
         <a href="#" class="back-to-top"><i class="fa fa-2x fa-angle-up"></i></a>
     </footer>
-    <!--/#footer-->
-    <!-- Back To Top -->
-    <script type="text/javascript">
-        jQuery(document).ready(function () {
-            var offset = 300;
-            var duration = 500;
-            jQuery(window).scroll(function () {
-                if (jQuery(this).scrollTop() > offset) {
-                    jQuery('.back-to-top').fadeIn(duration);
-                } else {
-                    jQuery('.back-to-top').fadeOut(duration);
-                }
-            });
+        <!--/#footer-->
+        <!-- Back To Top -->
+        <script type="text/javascript">
+            jQuery(document).ready(function () {
+                var offset = 300;
+                var duration = 500;
+                jQuery(window).scroll(function () {
+                    if (jQuery(this).scrollTop() > offset) {
+                        jQuery('.back-to-top').fadeIn(duration);
+                    } else {
+                        jQuery('.back-to-top').fadeOut(duration);
+                    }
+                });
 
-            jQuery('.back-to-top').click(function (event) {
-                event.preventDefault();
-                jQuery('html, body').animate({ scrollTop: 0 }, duration);
-                return false;
-            })
-        });
-    </script>
-    <!-- /top-link-block -->
-    <!-- Jscript -->
+                jQuery('.back-to-top').click(function (event) {
+                    event.preventDefault();
+                    jQuery('html, body').animate({ scrollTop: 0 }, duration);
+                    return false;
+                })
+            });
+        </script>
+        <!-- /top-link-block -->
+        <!-- Jscript -->
     </form>
 </body>
 </html>

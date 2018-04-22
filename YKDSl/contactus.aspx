@@ -27,7 +27,7 @@
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <%-- <link rel="shortcut icon" href="images/favicon.ico" />--%>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -60,8 +60,8 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="Default.aspx"><img src="images/logo.png" alt="logo"></a>
+                    </button>                    
+                    <a class="navbar-brand" href="Default.aspx"><p style="text-align:center">YKD Kardeşler <br />İç & Dış Dekorasyon</p></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
@@ -98,38 +98,12 @@
                             <li class="col-sm-6">
                                 <address>
                                     <h5>Merkez</h5>
-                                    <p>İlkadım Mahallesi, Dikmen Cd. 165/C, 06450  <br>
+                                    <p>İlkadım Mahallesi, Dikmen Cd. 165/C, 06450  <br/>
                                     Çankaya/Ankara</p>
-                                    <p>Tel: (0312) 482 83 23 <br>
+                                    <p>Gsm: 0532 665 62 50 - 0538 443 85 31/32<br />
+                                    Tel: (0312) 482 83 23 <br>
                                     Mail: info@strap.com</p>
                                 </address>
-
-                                <!--address>
-                                    <h5>Zone2 Office</h5>
-                                    <p>4587 Hitech Street <br>
-                                    HYD, DS 75864</p>
-                                    <p>Phone:123-456-7894 <br>
-                                    Email Address:info@strap.com</p>
-                                </!--address>
-                            </li>
-
-
-                            <li class="col-sm-6">
-                                <address>
-                                    <h5>Zone1 Office</h5>
-                                   <p>4587 Hitech Street <br>
-                                    HYD, DS 75864</p>
-                                    <p>Phone:123-456-7894 <br>
-                                    Email Address:info@strap.com</p>
-                                </address>
-
-                                <address>
-                                    <h5>Zone3 Office</h5>
-                                  <p>4587 Hitech Street <br>
-                                    HYD, DS 75864</p>
-                                    <p>Phone:123-456-7894 <br>
-                                    Email Address:info@strap.com</p>
-                                </address-->
                             </li>
                         </ul>
                     </div>
@@ -160,17 +134,17 @@
                              </div>
                         <div class="form-group">
                             <label>Mail Adresi *</label>
-                            <asp:TextBox ID="txtemail" CssClass="form-control" runat="server" required="required"></asp:TextBox>
+                            <asp:TextBox ID="txtemail" CssClass="form-control" runat="server"></asp:TextBox>
                           
                         </div>
                         <div class="form-group">
-                            <label>Telefon</label>
+                            <label>Telefon *</label>
                             <!--input type="number" class="form-control"-->
-                            <asp:TextBox ID="txtNumber" CssClass="form-control" runat="server" required="required"></asp:TextBox>
+                            <asp:TextBox ID="txtNumber" Type="Integer" CssClass="form-control" runat="server" required="required"></asp:TextBox>
                         </div>
                         <div class="form-group">
                             <label>Şirket İsmi</label>
-                          <asp:TextBox ID="txtcmpnm" runat="server" CssClass="form-control" required="required"></asp:TextBox>
+                          <asp:TextBox ID="txtcmpnm" runat="server" CssClass="form-control"></asp:TextBox>
                         </div>                        
                     </div>
                     <div class="col-sm-5">
@@ -184,9 +158,7 @@
                             <asp:TextBox ID="txtmsg" runat="server" CssClass="form-control" required="required" Rows="8" TextMode="MultiLine"></asp:TextBox>
                            
                         </div>                        
-                        <div class="form-group">
-                            <%--<button type="submit" name="submit" OnClick="Button_submit_Click" class="btn btn-primary btn-lg" required="required">Gönder</button>--%>
-                        
+                        <div class="form-group">             
                             <asp:Button ID="btnsend" class="btn btn-primary btn-lg" runat="server" OnClick="Button_submit_Click" Text="Gönder" />
                         </div>
                     </div>
@@ -195,72 +167,7 @@
         </div><!--/.container-->
     </section>
     <!--/#contact-page-->
-<%--    <section id="bottom">
-        <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Company</h3>
-                        <ul>
-                            <li><a href="#">Hakkımızda</a></li>
-                            <li><a href="#">We are hiring</a></li>
-                            <li><a href="#">Meet the team</a></li>
-                            <li><a href="#">Copyright</a></li>
-                            <li><a href="#">Terms of use</a></li>
-                            <li><a href="#">Privacy policy</a></li>
-                            <li><a href="#">Contact us</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
 
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Support</h3>
-                        <ul>
-                            <li><a href="#">Faq</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Forum</a></li>
-                            <li><a href="#">Documentation</a></li>
-                            <li><a href="#">Refund policy</a></li>
-                            <li><a href="#">Ticket system</a></li>
-                            <li><a href="#">Billing system</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Developers</h3>
-                        <ul>
-                            <li><a href="#">Web Development</a></li>
-                            <li><a href="#">SEO Marketing</a></li>
-                            <li><a href="#">Theme</a></li>
-                            <li><a href="#">Development</a></li>
-                            <li><a href="#">Email Marketing</a></li>
-                            <li><a href="#">Plugin Development</a></li>
-                            <li><a href="#">Article Writing</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Our Partners</h3>
-                        <ul>
-                            <li><a href="#">Adipisicing Elit</a></li>
-                            <li><a href="#">Eiusmod</a></li>
-                            <li><a href="#">Tempor</a></li>
-                            <li><a href="#">Veniam</a></li>
-                            <li><a href="#">Exercitation</a></li>
-                            <li><a href="#">Ullamco</a></li>
-                            <li><a href="#">Laboris</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-            </div>
-        </div>
-    </section>--%>
-    <!--/#bottom-->
     <footer id="footer" class="midnight-blue">
         <div class="container">
             <div class="row">

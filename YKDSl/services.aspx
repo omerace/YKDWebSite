@@ -28,7 +28,7 @@
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <%-- <link rel="shortcut icon" href="images/favicon.ico" />--%>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -62,7 +62,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="Default.aspx"><img src="images/logo.png" alt="logo"></a>
+                    <a class="navbar-brand" href="Default.aspx"><p style="text-align:center">YKD Kardeşler <br />İç & Dış Dekorasyon</p></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
@@ -99,7 +99,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
             <div class="row">
                 <div class="features">
                     
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <!--i class="fa fa-th-list"></!--i-->
                            <i style="content:url(../images/services/cephe-mantolama-2.jpg);" aria-hidden="true"></i>
@@ -107,7 +107,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                             <h3>Mantolama, ısı kaybını en aza indirgeyerek enerji tasarrufu sağlar. Aynı zamanda çevrenin korunması ve gürültüyü azaltarak daha konforlu bir yaşam alanı oluşturur.</h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <!--i class="fa fa-th-list"></!--i-->
                            <i style="content:url(../images/services/catiaktarma.jpg);" aria-hidden="true"></i>
@@ -116,7 +116,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <!--i class="fa fa-th"></!--i-->
                            <i style="content:url(../images/services/amerikan-siding.jpg);" aria-hidden="true"></i>
@@ -124,7 +124,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                             <h3>Amerikan Siding; üretim, montaj ve kullanım açısında oldukça kolay, çevreci ve uzun ömürlü bir uygulamadır. Hava koşullarına karşı Co-Extrüzyon teknolojisi ile üretilmiş olan çift katmanlı yapısı, dayanıklılık ve direnç sağlar. </h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                           <i style="content:url(../images/services/fayans.jpeg);" aria-hidden="true"></i>
                             <!--i class="fa fa-th-list"></!--i-->
@@ -133,7 +133,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                            <i style="content:url(../images/services/cammozaik.jpg);" aria-hidden="true"></i>
                              <!--i class="fa fa-th-list"></!--i-->
@@ -141,23 +141,23 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                             <h3>Cam Mozaik, iç ve dış mekanlarda modern bir dizayn oluşturur. Aynı zamanda derz dokusu sayesinde anti-bakteriyel özellik sağladığı için özellikle hijyen gerektiren mutfak gibi alanlarda tercih edilebilir.</h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                              <i style="content:url(../images/services/hilton-lavabo.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Hilton Lavabo</h2>
-                            <h3>Hilton lavabo, alan sorunu olan yerlerde de kolaylıkla kullanılabilir. Sahip olduğu birçok farklı çeşitleri ile şık bir dekorasyon elde edilebilir.</h3>
+                            <h3>Hilton lavabo, alan sorunu olan yerlerde de kolaylıkla kullanılabilir. Sahip olduğu birçok farklı çeşitleri ile şık bir dekorasyon elde edilebilir.<br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                            <i style="content:url(../images/services/mermer-.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Mermer - Karo</h2>
-                            <h3>Hijyen, yüksek dayanıklılık ve izolasyon yönünden oldukça güçlü ve uzun ömürlü olan dekoratif yapı malzemesidir. </h3>
+                            <h3>Hijyen, yüksek dayanıklılık ve izolasyon yönünden oldukça güçlü ve uzun ömürlü olan dekoratif yapı malzemesidir. <br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                              <i style="content:url(../images/services/duvar-kagidi.jpg);" aria-hidden="true"></i>                         
                             <h2 style="text-align:center">Duvar Kağıdı</h2>
@@ -165,14 +165,14 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/cam-balkon.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Cam Balkon</h2>
-                            <h3>Cam Balkon, hava şartları ve dış etkenlerin balkon kullanımını ve güçlü izolasyon yapısını engellemesi durumunda panoramik bir yapı oluşturmanızı sağlayan uygulamadır.</h3>
+                            <h3>Cam Balkon, hava şartları ve dış etkenlerin balkon kullanımını ve güçlü izolasyon yapısını engellemesi durumunda panoramik bir yapı oluşturmanızı sağlayan uygulamadır.<br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/mutfak-dolabi.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Mutfak Dolabı</h2>
@@ -180,29 +180,29 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/laminant-parke.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Laminat Parke</h2>
-                            <h3>Darbeye ve çizilmelere karşı dayanıklı, yüksek ısı izolasyonu sağlayan dekoratif zemin yapı malzemesidir. </h3>
+                            <h3>Darbeye ve çizilmelere karşı dayanıklı, yüksek ısı izolasyonu sağlayan dekoratif zemin yapı malzemesidir. <br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                            <i style="content:url(../images/services/tavankaplama.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Tavan Kaplama</h2>
-                            <h3>Tavan kaplama, ısı yalıtımı, nem, rutubet ve küf yalıtımları için tasarımsal olarak uygulanır.</h3>
+                            <h3>Tavan kaplama, ısı yalıtımı, nem, rutubet ve küf yalıtımları için tasarımsal olarak uygulanır.<br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/somine.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Şömine</h2>
-                            <h3>Mimari yapı öğesi olan şömine, modern kültürde genellikle dekoratif amacıyla tercih edilen bir yapıdır.</h3>
+                            <h3>Mimari yapı öğesi olan şömine, modern kültürde genellikle dekoratif amacıyla tercih edilen bir yapıdır.<br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/peyzaj.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Peyzaj</h2>
@@ -210,130 +210,130 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/ferforje.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Ferforje</h2>
-                            <h3>Ferforje iç ve dış mekanlarda estetik bir amaç ile yada güvenlik amacı ile çeşitli alanlarda yapılır.</h3>
+                            <h3>Ferforje iç ve dış mekanlarda estetik bir amaç ile yada güvenlik amacı ile çeşitli alanlarda yapılır.<br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/kilit-tasi.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Kilit Taşı</h2>
-                            <h3>Çoğunlukla dış alanların düzenlemesinde tercih edilen yapı malzemesidir.</h3>
+                            <h3>Çoğunlukla dış alanların düzenlemesinde tercih edilen yapı malzemesidir.<br /><br /><br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/asmatavan.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Asma Tavan</h2>
                             <h3>Asma tavan; betonarme, çelik konstrüksiyon veya ahşap tavan iskeleti altında elektrik tesisatı için montaj boşluğu sağlayan sistemdir. Dekoratif olarakda oldukça estetik duran bu uygulama çok fazla tercih edilir.</h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/alcipan.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Alçıpan</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Duvar bölünmek istendiğinde ve gerekli dekoratif duvar düzeltmelerinde kullanılır.<br /><br /><br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/alcisiva.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Alçı - Sıva</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Duvarlarda ve zeminlerdeki son kat işlemlerin tamamen düzgün görünmesini sağlayan altyapı destek uygulamalarıdır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                            <i style="content:url(../images/services/sove.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Söve Denizlik</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Dış cephelerde yapılan işlemlerden sonra pencere ve balkon kenarlarına yapılan uzun ömürlü dış cephe malzemesidir.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                            <i style="content:url(../images/services/drenaj.jpg);" aria-hidden="true"></i>
-                            <h2 style="text-align:center">Dranjer</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h2 style="text-align:center">Drenaj</h2>
+                            <h3>Yapıya zarar verebilecek dip suyun doğal veya yapay yollarla uzaklaştırılmasına yönelik yapılan çalışmaların bütünüdür.</h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/camtugla.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Cam Tuğla</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Cam tuğla ışığı geçirebilen ancak net bir görüntü algılanmasına izin vermeyen ve bu nedenle de belli bir ölçüde görsel mahremiyeti sağlayan bir malzeme seçeneğidir.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                            <i style="content:url(../images/services/kartonpiyer.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Kartonpiyer</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Duvar diplerinde altypaısal yamuklukların ve bozuklukların ufak bir dokunuşla kapatılması için kullanılan malzemedir.</h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/sihhitesisat.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Sıhhi Tesisat</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Yapıda gerekli bütün temiz ve pis su borularının yapıya uygun döşenmesidir.<br /><br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                            <i style="content:url(../images/services/ısısuses.jpg);" aria-hidden="true"></i>
                             <h2 style="text-align:center">Isı-Su-Ses İzolasyonu</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Yapı için sıcaklığın va zararlı ışınlardan korunmak, ortamda bulunan suyun başka yerlere sızmasını önlemek ve ortam iç sesi ve dış sesi arasındaki geçişi önlemek için kullanılır.<br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/karasiva.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Kara Sıva</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Yapının yapımı esnasında, duvarlar yapıldıktan sonra duvarların dış etkilerden, (yağmur, don, güneş gibi) korunması, yapının ömrünü uzatması gibi unsurların yanında sıva ile düzgün ve pürüzsüz bir yüzeyin elde edilmesi için gerekli olan bir uygulamadır.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/duvar-boya.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Boya</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Yapının son kat görsel uyguluması olup bunun yanı sıra dış etkenleri ilk karşılayacak katmandır. Bu sebeple itina ile yapılması büyük önem gerektiren işlemdir.<br /><br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/pvc.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">PVC Kapı - Pencere</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>PVC sistemleri; mükemmel ısı ve ses yalıtımı sağlaması, dekoratif beklentilere uygun renk seçenekleriyle ve uzun ömürlü yapısıyla yapınıza değer katar.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/panelkapi-.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Amerikan Panel Kapı</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>İç mekan geçişlerinde kullanılan 1. sınıf yüzey kalitesi ile istenilen ebatlarda uygulanabilen kapı modelimizdir.<br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/dekoratif-.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Dekoratif Duvar - Yer - Tavan Kaplama</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Dekoratif beklentilere uygun bütün zemin, duvar ve tavan kaplamalarıdır. Çeşitli uygulamalar ve malzemeler içermektedir.<br /><br /></h3>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="550ms" data-wow-delay="150ms">
                         <div class="feature-wrap">
                             <i style="content:url(../images/services/dekoratif.jpg);" aria-hidden="true"></i>  
                             <h2 style="text-align:center">Taş Duvar</h2>
-                            <h3>Başlığın Yapım şekli anlatılacaktır.</h3>
+                            <h3>Gerçek taşlarla uygulanabilmekte olup bunun yanı sıra taş duvar benzetmesiyle kartonpiyer kum kaplama malzemeleriyle iç ve dış mekanlarda uygulunan dekoratif işlemdir.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                 </div><!--/.services-->
@@ -354,7 +354,7 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                 <h3>
                     İzmir Tren Hangarı İşletmesi </h3>
                 <h4>
-                    <span>- Sn. Bilmem Ne/</span> Zamanında bitirilen işler, hakedişlerde taahüt edilen işlerin yapılmış olması ve temizlik bizim için önemli olan şeydi ve hepsini siz, bize ve işletmemize sağladınız. Teşekkür ederiz. </h4>
+                    <span>- Hangar İşletmesi</span> Zamanında bitirilen işler, hakedişlerde taahüt edilen işlerin yapılmış olması ve temizlik bizim için önemli olan şeydi ve hepsini siz, bize ve işletmemize sağladınız. Teşekkür ederiz. </h4>
             </div>
         </div>
         <div class="col-md-4 wow fadeInDown">
@@ -363,86 +363,20 @@ programımızı hizmetlerimize ekleyeceğiz. Evinizin dekorasyonunu işlem önce
                 <h3>
                     Ünal Kuruyemiş İşletmeciliği</h3>
                 <h4>
-                    <span>- Salih BilmemNe /</span> Güncel değişikliklerden ve modern tasarımlardan anladığınız için peş peşe projelerimin üçünüde size verdim, vermeye de devam edeceğim.</h4>
+                    <span>- Salih Erbil /</span> Güncel değişikliklerden ve modern tasarımlardan anladığınız için peş peşe projelerimin üçünüde size verdim, vermeye de devam edeceğim.</h4>
             </div>
         </div>
         <div class="col-md-4 wow fadeInDown">
             <div class="clients-comments text-center">
                 <img src="images/29-mayıs-devlet-hastanesi-logo.png" class="img-circle" alt="">
                 <h3>
-                    29 Mayıs Devlet Hastanesi İşl.</h3>
+                    29 Mayıs Devlet Hastanesi</h3>
                 <h4>
-                    <span>- Mehmet BilmemNe /</span> Güzel işlet yaptınız Eyvallah.</h4>
+                    <span>- Hastane İşletmesi /</span> Yapılan işlerin kalitesi ve tarafımıza sunulan hizmetler bütünüyle 1. kaliteydi. Şahsınıza ve firmanıza teşekkür ederim.</h4>
             </div>
         </div>
     </div>
-   <%-- <section id="bottom">
-        <div class="container wow fadeInDown" data-wow-duration="750ms" data-wow-delay="400ms">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Company</h3>
-                        <ul>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">We are hiring</a></li>
-                            <li><a href="#">Meet the team</a></li>
-                            <li><a href="#">Copyright</a></li>
-                            <li><a href="#">Terms of use</a></li>
-                            <li><a href="#">Privacy policy</a></li>
-                            <li><a href="#">Contact us</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Support</h3>
-                        <ul>
-                            <li><a href="#">Faq</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Forum</a></li>
-                            <li><a href="#">Documentation</a></li>
-                            <li><a href="#">Refund policy</a></li>
-                            <li><a href="#">Ticket system</a></li>
-                            <li><a href="#">Billing system</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Developers</h3>
-                        <ul>
-                            <li><a href="#">Web Development</a></li>
-                            <li><a href="#">SEO Marketing</a></li>
-                            <li><a href="#">Theme</a></li>
-                            <li><a href="#">Development</a></li>
-                            <li><a href="#">Email Marketing</a></li>
-                            <li><a href="#">Plugin Development</a></li>
-                            <li><a href="#">Article Writing</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Our Partners</h3>
-                        <ul>
-                            <li><a href="#">Adipisicing Elit</a></li>
-                            <li><a href="#">Eiusmod</a></li>
-                            <li><a href="#">Tempor</a></li>
-                            <li><a href="#">Veniam</a></li>
-                            <li><a href="#">Exercitation</a></li>
-                            <li><a href="#">Ullamco</a></li>
-                            <li><a href="#">Laboris</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-            </div>
-        </div>
-    </section>--%>
-    <!--/#bottom-->
-    <!--/#bottom-->
+  
     <footer id="footer" class="midnight-blue">
         <div class="container">
                        <div class="row">
