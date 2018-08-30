@@ -5,8 +5,9 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="keywords" content="Çatı, aktarma, amerikan siding, fayans, kalebodur, cam mozaik, hilton lavabo, banyo dolabı, menfez, sineklik, mermer, karo, duvar kağıdı, ithal duvar kağıdı, cam, cam balkon, mutfak dolabı, dolap, laminant parke, parke, tavan kaplama, led aydınlatma, ankara led, ankara tavan kaplama" />
+    <meta name="description" content="Daire/Bina Tadilat, Onarım ve Mantolama İşleri 35 Yıllık Tecrübe ile Yapılmaktadır." />
+    <meta name="author" content="YKD Kardeşler Dekorasyon" />
     <title>YKD Dekorasyon-Projeler</title>
     <%-- ------ CSS ------ --%>
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />

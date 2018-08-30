@@ -5,8 +5,9 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="keywords" content="Dış cephe mantolama, dış cephe, şömine, peyzaj, ferforje, kilit taşı, asma tavan, ankara asma tavan, alüminyum asma tavan, alçıpan, alçıpan duvar, alçı, boya, sıva, dekoratif boya, dekoratif, dekoratif sıva, söve, denizlik, dranjer, cam tuğla, tuğla, kiremit, gaz betonu" />
+    <meta name="description" content="Daire/Bina Tadilat, Onarım ve Mantolama İşleri 35 Yıllık Tecrübe ile Yapılmaktadır." />
+    <meta name="author" content="YKD Kardeşler Dekorasyon" />
     <title>YKD Dekorasyon-Hizmetler</title>
     <%-- ------ CSS ------ --%>
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />

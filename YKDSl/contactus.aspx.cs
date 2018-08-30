@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Net.Mail;
+using System.Web.Services;
 public partial class contactus : System.Web.UI.Page
 {
     
@@ -14,19 +15,22 @@ public partial class contactus : System.Web.UI.Page
     }
     protected void Button_submit_Click(object sender, EventArgs e)
     {
-        if (sendmail(txtName.Text, txtSurname.Text, txtemail.Text,txtNumber.Text, txtcmpnm.Text, txtsubject.Text, txtmsg.Text))
+        if (sendmail(txtName.Text, txtSurname.Text, txtemail.Text,txtNumber.Text, txtcmpnm.Text, txtsubject.SelectedItem.Text, txtmsg.Text))
         {
-            /*lblmessage.Text = "Message was sent";
-            lblmessage.Visible = true;
-            txtdetail.Text = "";
-            txtsubject.Text = "";*/
+            txtName.Text = "";
+            txtSurname.Text = "";
+            txtemail.Text = "";
+            txtNumber.Text = "";
+            txtcmpnm.Text = "";
+            txtmsg.Text = "";            //myPopup.Attributes.Add("style", "visibility: visible; -webkit - animation: fadeIn 1s; animation: fadeIn 1s; ");
+
         }
     }
     public bool sendmail(string name, string surname, string mail_,string number, string company, string subject,string message)
     {
         MailMessage mail = new MailMessage();
-        mail.From = new MailAddress("omerace@gmail.com"); // info@admin.com will be default 
-        mail.To.Add("omerace@gmail.com");
+        mail.From = new MailAddress("ykderdal@gmail.com"); // info@admin.com will be default 
+        mail.To.Add("ykderdal@gmail.com");
         mail.Subject = subject;
         mail.Body = name + " " + surname + " Kişisinden\n Tel:" + number + "\nMail: " + mail_ + "\nŞirket: " + company + "\n\n\n" + message;
         SmtpClient smtp = new SmtpClient("smtp.gmail.com");

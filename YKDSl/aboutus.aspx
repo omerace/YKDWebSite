@@ -5,9 +5,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" /> 
+    <meta name="keywords" content="Kartonpiyer, sıhhi tesisat, su tesisatı, su, elektrik,  elektrik tesisatı, izolasyon, yalıtım, kara sıva, yağlı boya, su bazlı boya, işçilik, plastik boya, pvc, pencere, kapı, amerikan panel kapı, amerikan kapı, taş duvar, işçiliği, tadilat ve onarım, tadilat, onarım, ankara, ankara tadilat ve onarım, ankara dekorasyon" />
+    <meta name="description" content="Daire/Bina Tadilat, Onarım ve Mantolama İşleri 35 Yıllık Tecrübe ile Yapılmaktadır." />
+    <meta name="author" content="YKD Kardeşler Dekorasyon" />
     <title>YKD Dekorasyon-Hakkımızda</title>
     <%-- ------ CSS ------ --%>
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />

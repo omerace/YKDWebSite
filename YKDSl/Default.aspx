@@ -6,8 +6,9 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="keywords" content="YKD, Kardeşler, Dekorasyon, ankara dekorasyon, ankara, ankara mantolama, mantolama, fayans, kalebodur, duvar kağıdı, ankara duvar kağıdı, ankara parke, tadilat, parke, laminant parke, mutfak dolabı, kartonpiyer, banyo dolabı, cam mozaik, çatı aktarma, dış cephe mantolama, çatı aktarma" />
+    <meta name="description" content="Daire/Bina Tadilat, Onarım ve Mantolama İşleri 35 Yıllık Tecrübe ile Yapılmaktadır." />
+    <meta name="author" content="YKD Kardeşler Dekorasyon" />
     <title>YKD Dekorasyon</title>
     <%-- ------ CSS ------ --%>
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />

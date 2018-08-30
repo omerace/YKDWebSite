@@ -5,6 +5,9 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="keywords" content="Ykd dekorasyon nerede, ykd dekorasyon telefon numarası, ykd dekorasyon, yılmaz kardeşler, erdal, yılmaz, enes, mehmet, ykd dekorasyon harita, kaliteli dekorasyon, mimarlık, ankara mimarlık, mimarlık&dekorasyon, 3 boyutlu çizim, dizayn, tasarım" />
+    <meta name="description" content="Daire/Bina Tadilat, Onarım ve Mantolama İşleri 35 Yıllık Tecrübe ile Yapılmaktadır." />
+    <meta name="author" content="YKD Kardeşler Dekorasyon" />
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>YKD Dekorasyon-İletişim</title>
@@ -133,7 +136,7 @@
                                <asp:TextBox ID="txtSurname" CssClass="form-control" runat="server" required="required"></asp:TextBox>
                              </div>
                         <div class="form-group">
-                            <label>Mail Adresi *</label>
+                            <label>Mail Adresi</label>
                             <asp:TextBox ID="txtemail" CssClass="form-control" runat="server"></asp:TextBox>
                           
                         </div>
@@ -150,7 +153,12 @@
                     <div class="col-sm-5">
                         <div class="form-group">
                             <label>Konu *</label>
-                            <asp:TextBox ID="txtsubject" runat="server" CssClass="form-control" required="required"></asp:TextBox>
+                            <asp:dropdownlist id="txtsubject" runat="server" CssClass="form-control" required="required">
+                                <asp:listitem Value="r" Selected="True">Randevu</asp:listitem>
+                                <asp:listitem Value="m">Mantolama</asp:listitem>
+                                <asp:listitem Value="t">Tadilat</asp:listitem>
+                                <asp:listitem Value="d">Diğer</asp:listitem>
+                            </asp:dropdownlist>
                             
                         </div>
                         <div class="form-group">
@@ -159,7 +167,8 @@
                            
                         </div>                        
                         <div class="form-group">             
-                            <asp:Button ID="btnsend" class="btn btn-primary btn-lg" runat="server" OnClick="Button_submit_Click" Text="Gönder" />
+                            <asp:Button ID="btnsend" class="btn btn-primary btn-lg popup" runat="server" OnClick="Button_submit_Click" Text="Gönder" />
+                            <%--<span id="myPopup" runat="server">Mail Gönderildi.</span>--%>
                         </div>
                     </div>
                 </form> 
