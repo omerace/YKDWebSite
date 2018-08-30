@@ -105,7 +105,7 @@
                                     Çankaya/Ankara</p>
                                     <p>Gsm: 0532 665 62 50 - 0538 443 85 31/32<br />
                                     Tel: (0312) 482 83 23 <br>
-                                    Mail: info@strap.com</p>
+                                    Mail: ykderdal@gmail.com</p>
                                 </address>
                             </li>
                         </ul>
